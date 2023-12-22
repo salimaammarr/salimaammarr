@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Salima and I am an undergraduate software engineering student.
+
+I am interested in cybersecurity and coding👩🏻‍💻!
+
+- 📫 How to reach me: Salima Ammar (Linkedin)
+- 😄 Pronouns: She/Her
+
 
 <!--
 **salimaammarr/salimaammarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
