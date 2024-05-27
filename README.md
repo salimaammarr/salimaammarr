@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Salima</h1>
-<h3 align="center">A passionate Software Engineering student</h3>
+<h1 align="center">Hi I'm Salima</h1>
+<h3 align="center">A passionate Software Engineering student 👩🏻‍💻</h3>
 
 - 🌱 I’m currently learning **React, C#**
 
