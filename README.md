@@ -1,13 +1,13 @@
 <h1 align="center">Hi I'm Salima</h1>
 <h3 align="center">A passionate Software Engineering student 👩🏻‍💻</h3>
 
-- 🌱 I’m currently learning **React, C#**
+- 🌱 I’m currently learning **React and Machine Learning**
 
 - 💬 I'm interested in **cybersecurity and app development**
 
 - 📫 How to reach me **selimaammar07@gmail.com**
 
-- ⚡ Fun fact **I wrire songs**
+- ⚡ Fun fact **I write songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
